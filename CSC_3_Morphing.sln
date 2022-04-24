@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC_3_Morphing", "CSC_3_Morphing\CSC_3_Morphing.vcxproj", "{795BE27B-2969-4C9D-8DF7-A4F40B76606E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795BE27B-2969-4C9D-8DF7-A4F40B76606E}.Debug|x64.ActiveCfg = Debug|x64
+		{795BE27B-2969-4C9D-8DF7-A4F40B76606E}.Debug|x64.Build.0 = Debug|x64
+		{795BE27B-2969-4C9D-8DF7-A4F40B76606E}.Release|x64.ActiveCfg = Release|x64
+		{795BE27B-2969-4C9D-8DF7-A4F40B76606E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59628F6A-AD9C-480A-AB87-27B7E59767C6}
+	EndGlobalSection
+EndGlobal
